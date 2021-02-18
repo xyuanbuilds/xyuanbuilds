@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github-readme-stats.jinliming2.vercel.app/api/top-langs/?username=xyuanbuilds&layout=compact&bg_color=transparent&title_color=abd200&text_color=3fb950&hide_border=1&langs_count=10" />
-  <img src="https://github-readme-stats.vercel.app/api?username=xyuanbuilds&show_icons=true&bg_color=transparent&title_color=abd200&text_color=3fb950&icon_color=abd200&line_height=32" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xyuanbuilds&show_icons=true&bg_color=transparent&title_color=abd200&text_color=3fb950&ide_border=1&icon_color=abd200&line_height=32" />
 </div>
 
 <!--
